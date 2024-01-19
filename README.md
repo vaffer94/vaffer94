@@ -1,6 +1,6 @@
 ### Hi there, I'm Vania 👋
 
-- 🔭 I’m currently working and learning about how to create amazing games
+- 🔭 I’m currently learning about how to create amazing games
 - 👯 I’m looking to collaborate on projects that provide the "wow effect" to the user
 - 💬 Ask me about VR and AR, we will became best friends!
 
@@ -19,7 +19,7 @@
 </p>
 
 ## 💡A quote:
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote="Documentation is a love letter that you write to your future self"&author="Damian Conway"&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Documentation is a love letter that you write to your future self&author=Damian Conway&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <!--
 **vaffer94/vaffer94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
