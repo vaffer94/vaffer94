@@ -26,8 +26,7 @@
 </p>
 
 ## 💡A quote:
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-[![Documentation is a love letter that you write to your future self](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&quote=Documentation%20is%20a%20love%20letter%20that%20you%20write%20to%20your%20future%20self&author=Damian%20Conway&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
+[![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&quote=Documentation%20is%20a%20love%20letter%20that%20you%20write%20to%20your%20future%20self&author=Damian%20Conway&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <!--
 **vaffer94/vaffer94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
